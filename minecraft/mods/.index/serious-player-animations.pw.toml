@@ -1,0 +1,16 @@
+filename = 'seriousplayeranimations-1.1.1.jar'
+name = 'Serious Player Animations'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71a8848197eab2b580d1f4749df362182105d0f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5228786
+project-id = 975080

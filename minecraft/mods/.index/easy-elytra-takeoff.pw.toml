@@ -1,0 +1,16 @@
+filename = 'easyelytratakeoff-1.20.1-4.5.jar'
+name = 'Easy Elytra Takeoff'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '644c0938d450a15f94982602c857a989ee1c8363'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6186126
+project-id = 347898

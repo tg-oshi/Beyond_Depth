@@ -1,0 +1,16 @@
+filename = 'GeophilicReforged-v1.2.0.jar'
+name = 'Geophilic Reforged – Biome Additions'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '412650ce355803e91d54ad8c44cdcf8857c09e2a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4875199
+project-id = 936730

@@ -1,0 +1,16 @@
+filename = 'bounced-4.1.0-forge1.20.1.jar'
+name = 'Bounced!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '47daa5a2d222677efdf5a9bf2a83e144580b3681'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5235593
+project-id = 844458

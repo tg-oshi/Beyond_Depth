@@ -1,0 +1,16 @@
+filename = 'pyrotechnic-elytra-forge-1.20.1-1.0.0.jar'
+name = 'Pyrotechnic Elytra'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0b561e53c6494385010ce4913602ae48822a324a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5493566
+project-id = 968105

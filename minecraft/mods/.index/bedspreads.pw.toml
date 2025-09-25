@@ -1,0 +1,16 @@
+filename = 'bedspreads-forge-6.3.0+1.20.1.jar'
+name = 'Bedspreads'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '37e18532608a0f5d6f9efa200c0c71a734f4f8dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6401865
+project-id = 308653

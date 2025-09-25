@@ -1,0 +1,16 @@
+filename = 'customvillagertrades-forge-20.25.0.jar'
+name = 'Custom Villager Trades (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '48e82ed57a784b03cd8f7aa695efdbf1a2e85f25'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5383797
+project-id = 463402

@@ -1,0 +1,16 @@
+filename = 'alexscaves_torpedoes-1.0.4.jar'
+name = "Alex's Caves: Stuff & Torpedoes"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '616852e109f7f063ad614d9b566967590581e2bf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6582083
+project-id = 990013

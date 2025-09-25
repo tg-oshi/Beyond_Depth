@@ -1,0 +1,16 @@
+filename = 'StylishEffects-v8.0.2-1.20.1-Forge.jar'
+name = 'Stylish Effects'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '90f812020dcbbd854d4e3bab25237250f2e5f84e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5096987
+project-id = 543661

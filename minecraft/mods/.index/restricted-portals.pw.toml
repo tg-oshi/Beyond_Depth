@@ -1,0 +1,16 @@
+filename = 'restrictedportals-forge-1.20.1-1.5.0.jar'
+name = 'Restricted Portals'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '602bb68a7613bf8e1f4da62d5b601ca83b1cebb8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4662164
+project-id = 228266

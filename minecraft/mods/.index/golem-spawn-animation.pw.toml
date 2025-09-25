@@ -1,0 +1,16 @@
+filename = 'golem_spawn_animation-1.1-forge-1.20.1.jar'
+name = 'Golem Spawn Animation'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a1d8e2177342ff51688aa7f0067c5a3bc03307e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6695436
+project-id = 1224240

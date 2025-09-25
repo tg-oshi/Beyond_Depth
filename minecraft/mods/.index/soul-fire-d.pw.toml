@@ -1,0 +1,16 @@
+filename = 'soul-fire-d-forge-1.20.1-4.0.11.jar'
+name = "Soul fire'd"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd5073a142e0b5caf024cfbc812fe08bc14e9570b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6248077
+project-id = 662413

@@ -1,0 +1,16 @@
+filename = 'LetSleepingDogsLie-1.20.1-Forge-1.3.0.jar'
+name = 'Let Sleeping Dogs Lie (Forge)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '64a9dbaa85afcd20f821f8a714e642f2be4cf0fa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5477595
+project-id = 334098

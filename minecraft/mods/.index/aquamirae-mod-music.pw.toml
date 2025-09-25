@@ -1,0 +1,16 @@
+filename = 'Aquamirae Mod Boss Music Tweaks 1.20.1 v1.1.0.jar'
+name = '♬ Aquamirae - Boss Music Tweaks ♬'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3cd130f137bba8429dec78b943db6ddc47a306d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5777945
+project-id = 542360

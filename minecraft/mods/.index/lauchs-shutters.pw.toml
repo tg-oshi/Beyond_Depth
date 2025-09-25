@@ -1,0 +1,16 @@
+filename = 'shutter-2.1.4-1.20.1.jar'
+name = 'The New Shutters'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38d42a17ee2533d4ccc0129d766d25b9ac8e70dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6487208
+project-id = 714019

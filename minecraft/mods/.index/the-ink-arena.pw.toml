@@ -1,0 +1,16 @@
+filename = 'theinkarena-1.3.1-forge-1.20.1.jar'
+name = 'The Ink Arena'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b6ca6809a796171e3caaa9d380ab59cf79cc2bf7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5958277
+project-id = 1021581

@@ -1,0 +1,16 @@
+filename = 'exlinecopperequipment-forge-1.20.1-v2.0.8.jar'
+name = 'Copper Equipment'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '542ff4d52336364a71512d30de123b08364baede'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5181139
+project-id = 514371

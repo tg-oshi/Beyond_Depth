@@ -1,0 +1,16 @@
+filename = 'underground-rivers-1.0.1-forge-1.20.1.jar'
+name = 'Underground Rivers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9592fa574a0110a179bffe885a886a603d0773f0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6761652
+project-id = 1108285

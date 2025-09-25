@@ -1,0 +1,16 @@
+filename = 'extra_compat-1.5.25.jar'
+name = 'Extra Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '73daad79b768afd4c233811d39696053e9bbb2da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6385039
+project-id = 923005

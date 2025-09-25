@@ -1,0 +1,16 @@
+filename = 'stardew_fishing-1.20.1-2.3.jar'
+name = 'Stardew Fishing'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '375da28a2bdbd27dba3230642f59185767d1d6a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6434447
+project-id = 1066037

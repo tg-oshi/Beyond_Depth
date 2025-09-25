@@ -1,0 +1,16 @@
+filename = 'simplemenu-1.20.1-2.0.jar'
+name = 'Simple Menu'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8945a6b758f06d788869c406a9cb848630b031d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6725616
+project-id = 977300

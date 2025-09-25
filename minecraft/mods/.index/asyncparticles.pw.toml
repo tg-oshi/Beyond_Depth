@@ -1,0 +1,16 @@
+filename = 'AsyncParticles-2.3.3+1.20.1.jar'
+name = 'AsyncParticles'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd1ea1be0e585fb147387b12ebc3916071db1a971c8619d08b2fbcf6f3f0cb0abd20780d867e3eca982fe7cae646ef64a468361ac810eccf5b75fcbb50391c9ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c3onkd5k/versions/fzBFtziy/AsyncParticles-2.3.3%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'c3onkd5k'
+version = 'fzBFtziy'

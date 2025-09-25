@@ -1,0 +1,16 @@
+filename = 'Progressive Difficulty Chaos Integration-1.0.1-1.20.1.jar'
+name = 'Progressive Difficulty: Chaos Integration'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8547e347bd31aef6bfaa3fcae010cf061ca9c89'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6243647
+project-id = 1180755

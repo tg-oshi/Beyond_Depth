@@ -1,0 +1,16 @@
+filename = 'betterendcities-1.0.0-1.20.1.jar'
+name = 'Better End Cities Vanilla'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'be5951d1f64cbac1f1d5a60e415f6e7bd90551d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5238542
+project-id = 959431

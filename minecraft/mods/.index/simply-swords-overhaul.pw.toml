@@ -1,0 +1,16 @@
+filename = 'simply_swords_overhaul-1.0.2-1.20.1.jar'
+name = 'Simply Swords: Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e754432511534143cfd1841759a612beffbc4f87'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6358644
+project-id = 1224395

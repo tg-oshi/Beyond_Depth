@@ -1,0 +1,16 @@
+filename = 'redirected-forge-1.0.0-1.20.1.jar'
+name = 'Redirected'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '804cb20635bec6d708617fb22e6bd62bed27a7a7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6148844
+project-id = 1191845
