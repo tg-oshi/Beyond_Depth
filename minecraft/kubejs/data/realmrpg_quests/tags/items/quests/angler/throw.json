@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "minecraft:egg",
+      "required": false
+    },
+    {
+      "id": "minecraft:brick",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick",
+      "required": false
+    },
+    {
+      "id": "minecraft:slime_ball",
+      "required": false
+    },
+    {
+      "id": "minecraft:glass_bottle",
+      "required": false
+    },
+    {
+      "id": "minecraft:poisonous_potato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rotten_tomato",
+      "required": false
+    },
+    {
+      "id": "supplementaries:ash_brick",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bomb",
+      "required": false
+    },
+    {
+      "id": "galosphere:silver_bomb",
+      "required": false
+    },
+    {
+      "id": "undergarden:gronglet",
+      "required": false
+    },
+    {
+      "id": "undergarden:depthrock_pebble",
+      "required": false
+    },
+    {
+      "id": "undergarden:goo_ball",
+      "required": false
+    }
+  ]
+}

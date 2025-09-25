@@ -1,0 +1,69 @@
+[
+  {
+    "mob": ["alexscaves:gloomoth"],
+    "persecond": 0.4,
+    "attempts": 10,
+    "amount": {
+      "minimum": 4,
+      "maximum": 4,
+      "groupdistance": 15
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "norestrictions": true,
+      "mindist": 20,
+      "maxdist": 96,
+      "maxthis": 16
+    }
+  },
+  {
+    "mob": ["alexscaves:notor"],
+    "persecond": 0.4,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4,
+      "groupdistance": 2
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "norestrictions": true,
+      "mindist": 20,
+      "maxdist": 96,
+      "maxthis": 8
+    }
+  },
+  {
+    "mob": ["alexscaves:gammaroach"],
+    "persecond": 1,
+    "attempts": 20,
+    "amount": {
+      "minimum": 8,
+      "maximum": 8,
+      "groupdistance": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "norestrictions": true,
+      "mindist": 10,
+      "maxdist": 96,
+      "maxthis": 16
+    }
+  },
+  {
+    "mob": ["alexsmobs:mantis_shrimp"],
+    "persecond": 0.1,
+    "attempts": 1,
+    "amount": {
+      "minimum": 1,
+      "maximum": 4,
+      "groupdistance": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 20,
+      "maxdist": 96,
+      "maxthis": 4
+    }
+  }
+]

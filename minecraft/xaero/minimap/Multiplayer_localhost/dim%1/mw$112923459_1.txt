@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Breairarc:B:1440:50:-448:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:last:l:1764:74:-282:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Rayzoirmed:R:1440:48:-432:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:top:t:1385:156:-536:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Стена плоти:С:1508:162:-956:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:start end:s:7:61:0:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal:P:2025:135:-1840:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:last:l:2325:31:-1552:6:false:0:gui.xaero_default:false:0:0:false

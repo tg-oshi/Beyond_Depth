@@ -1,0 +1,61 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:bastion:B:6442:~:-2714:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:НОВЫЙ ДОМ!:Н:7642:66:-15357:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:WARDEN:W:-2566:-18:5755:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:farm:F:-2119:78:7273:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:dragon cube 2:D:-2505:177:5887:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:-2300 -2500[empty village]:-:-2277:120:-2504:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:-2216:63:360:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:TRADER IRON BOOTS:T:-1417:78:619:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:place:P:770:77:-1280:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:562:65:-828:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:home:H:693:58:-488:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:19986:124:19997:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:19959:122:19982:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:19994:112:20003:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:19970:134:20016:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:19810:63:20147:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:19863:105:19878:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:19971:121:19994:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:20017:120:20029:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:20051:103:20041:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:200011:69:199948:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:200133:82:199883:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:-1500 -600[dead trader]:-:-1547:92:-601:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Деревня на скалах:Д:-2277:120:-2504:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Unnamed Waystone:U:-4253:65:1769:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pizdec Far:P:-3317:106:6112:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spawn:S:19:66:-16:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sword Farm:S:-1991:168:5766:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:BAZA ARSENA MARKARYANA:B:-684:82:-459:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:WARDEN:W:-2566:-18:5755:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:farm:f:-2427:116:6693:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Nether Portal §§D:N:-4321:-3:1790:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mending:M:106:65:-1711:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Challenge .i.:C:-2390:203:5418:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:WIZER:W:-2374:-4:5352:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:chestplate, leggins village:c:-3390:71:5322:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:dragon cube 4, freeze biom:d:-4778:91:5856:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:totem of undying farm:t:-6034:123:5449:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:1200 -2800:1:1184:65:-2848:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:типа деревни:т:1130:71:-3200:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Пингвины:П:362:65:-3081:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:ship:s:3728:131:-2281:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:last place:l:5912:70:-1128:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Flowers:F:6482:76:-3990:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:НОВЫЙ ДОМ!:Н:7683:67:-15309:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DANGE:D:7159:-52:-16687:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:BIG SKY VILLAGE:B:7517:233:-16556:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:ELDA IN SKY:E:7456:117:-17821:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:FOREST PAINT:F:7622:123:-18303:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:most far place:m:8321:65:-23423:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:SOOO FAR AD PLACE:S:63171:77:-42383:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Вышка:В:6422:235:-3158:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:dragon cube:d:-6565:178:2813:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:пиздец под полом:п:-6854:102:3061:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal to Nether:P:-3317:107:6112:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:METHEORITE:M:64127:57:-43261:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:last place:l:63831:134:-43780:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:low difficulty challenge:l:1514:222:-1242:4:false:0:gui.xaero_default:false:0:0:false

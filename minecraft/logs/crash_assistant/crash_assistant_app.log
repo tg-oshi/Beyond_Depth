@@ -1,0 +1,42 @@
+[2025-09-22 20:07:40.596] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-09-22 20:07:40.598] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\local\crash_assistant\3728_1758560849100_app.jar, -parentPID, 3728, -parentStarted, 1758560849100, -platform, FORGE, -loaderJarName, fmlloader-1.20.1-47.4.4.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\mods\CrashAssistant-forge-1.19-1.20.1-1.9.15.jar, -log4jApi, C:\Users\oshi\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar, -log4jCore, C:\Users\oshi\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar, -googleGson, C:\Users\oshi\AppData\Roaming\PrismLauncher\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar, -commonIo, C:\Users\oshi\AppData\Roaming\PrismLauncher\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar, -parentXms, 512m, -parentXmx, 10240m, -systemRAM, 31.9g, -processor, QU1EIFJ5emVuIDUgNTYwMCA2LUNvcmUgUHJvY2Vzc29yICAgICAgICAgICAgICA=, -serialisedGPUs, VnVsa2FuIEdQVSBkZXRlY3Rpb24gYWRkb24gbm90IGZvdW5kLCBmYWxsaW5nIGJhY2sgdG8gRGlyZWN0WApTdWNjZXNzZnVsbHkgZGV0ZWN0ZWQgR1BVcyB1c2luZyBEaXJlY3RYOgpERURJQ0FURUQgOiBOVklESUEgR2VGb3JjZSBSVFggMzA3MAoNCg==, -recursiveStart]
+[2025-09-22 20:07:40.603] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft
+[2025-09-22 20:07:40.603] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-forge-1.19-1.20.1-1.9.15.jar
+[2025-09-22 20:07:40.603] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 3728
+[2025-09-22 20:07:40.603] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1758560849100
+[2025-09-22 20:07:40.605] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FORGE
+[2025-09-22 20:07:40.605] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fmlloader-1.20.1-47.4.4.jar
+[2025-09-22 20:07:40.605] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2025-09-22 20:07:40.605] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-09-22 20:07:40.607] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 512m
+[2025-09-22 20:07:40.607] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 10240m
+[2025-09-22 20:07:40.608] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 31.9g
+[2025-09-22 20:07:40.608] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: AMD Ryzen 5 5600 6-Core Processor              
+[2025-09-22 20:07:40.608] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan GPU detection addon not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+DEDICATED : NVIDIA GeForce RTX 3070
+
+
+[2025-09-22 20:07:40.608] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 10
+[2025-09-22 20:07:40.611] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\oshi\AppData\Roaming\PrismLauncher\java\java-runtime-gamma\bin\javaw.exe
+[2025-09-22 20:07:40.611] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.15+6-LTS
+[2025-09-22 20:07:40.638] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 3728 to stop.
+[2025-09-22 20:08:24.477] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+NVIDIA GeForce RTX 3070/PCIe/SSE2
+[2025-09-22 20:32:20.770] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "3728" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-09-22 20:32:20.801] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\logs\latest.log
+[2025-09-22 20:32:20.802] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding debug.log from C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\logs\debug.log
+[2025-09-22 20:32:20.805] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding PrismLauncher-0.log from C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\..\..\..\logs\PrismLauncher-0.log
+[2025-09-22 20:32:20.808] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\logs\kubejs\client.log
+[2025-09-22 20:32:20.809] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\logs\kubejs\startup.log
+[2025-09-22 20:32:20.810] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\oshi\AppData\Roaming\PrismLauncher\instances\Beyond Depth\minecraft\logs\crash_assistant\crash_assistant_app.log
+[2025-09-22 20:32:20.811] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-09-22 20:32:20.811] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: false
+[2025-09-22 20:32:20.811] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: stop() function of Minecraft fired: true
+[2025-09-22 20:32:20.811] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: close() function of Minecraft failed: false
+[2025-09-22 20:32:20.811] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: emergencySave() function of Minecraft fired: false
+[2025-09-22 20:32:20.823] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isModpackCreator: false
+[2025-09-22 20:32:20.825] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: isHelpLinkDefault: false
+[2025-09-22 20:32:20.826] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: helpLink: https://discord.com/invite/beyonds
+[2025-09-22 20:32:20.827] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.

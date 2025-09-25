@@ -1,0 +1,279 @@
+[
+    {
+        "mob": ["biomemakeover:decayed", "biomemakeover:dragonfly"],
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mob": "bygonenether:wither_skeleton_horse",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mob": ["celestisynth:star_monolith", "celestisynth:traverser"],
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mob": "majruszsdifficulty:giant",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mob": ["naturalist:catfish", "naturalist:elephant", "naturalist:rattlesnake", "naturalist:rhino"],
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mob": ["upgrade_aquatic:great_thrasher", "upgrade_aquatic:thrasher"],
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mod": ["born_in_chaos_v1", "cataclysm", "majruszsdifficulty", "minecraft"],
+        "biome": "alexscaves:abyssal_chasm",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mod": ["born_in_chaos_v1", "majruszsdifficulty", "minecraft"],
+        "biome": "alexscaves:candy_cavity",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mod": ["born_in_chaos_v1", "majruszsdifficulty", "minecraft"],
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexscaves:gloomoth",
+        "dimension": "minecraft:overworld",
+        "biome": "alexscaves:forlorn_hollows",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexscaves:gloomoth",
+        "dimension": "minecraft:overworld",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mod": ["born_in_chaos_v1", "majruszsdifficulty", "minecraft"],
+        "biome": "alexscaves:magnetic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexscaves:notor",
+        "dimension": "minecraft:overworld",
+        "biome": "alexscaves:magnetic_caves",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexscaves:notor",
+        "dimension": "minecraft:overworld",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mod": ["born_in_chaos_v1", "majruszsdifficulty", "minecraft"],
+        "biome": "alexscaves:primordial_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mod": ["born_in_chaos_v1", "majruszsdifficulty", "minecraft"],
+        "biome": "alexscaves:toxic_caves",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexscaves:gammaroach",
+        "dimension": "minecraft:overworld",
+        "biome": "alexscaves:toxic_caves",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mob": "alexscaves:gammaroach",
+        "dimension": "minecraft:overworld",
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+
+    {
+        "mob": ["alexsmobs:centipede_head", "alexsmobs:cockroach", "alexsmobs:fly", "alexsmobs:murmur"],
+        "dimension": "minecraft:overworld",
+        "biome": ["alexscaves:candy_cavity", "alexscaves:forlorn_hollows", "alexscaves:magnetic_caves", "alexscaves:primordial_caves", "alexscaves:toxic_caves"],
+        "result": "deny",
+        "when": "onjoin"
+    },
+
+
+    {
+        "mob": "alexsmobs:mantis_shrimp",
+        "dimension": "minecraft:overworld",
+        "biome": ["minecraft:mangrove_swamp", "minecraft:warm_ocean"],
+        "result": "allow"
+    },
+    {
+        "mob": "alexsmobs:mantis_shrimp",
+        "dimension": "minecraft:overworld",
+        "result": "deny"
+    },
+
+
+    {
+        "mob": "minecraft:guardian",
+        "mincount": 30,
+        "result": "deny"
+    },
+    {
+        "mob": "crittersandcompanions:otter",
+        "mincount": 15,
+        "result": "deny"
+    },
+    {
+        "mob": ["crittersandcompanions:otter"],
+        "random": 0.8,
+        "result": "deny"
+    },
+    {
+        "mob": ["alexsmobs:cachalot_whale"],
+        "random": 0.5,
+        "result": "deny"
+    },
+    {
+        "mob": ["crittersandcompanions:dragonfly"],
+        "random": 0.1,
+        "result": "deny"
+    },
+        {
+        "mob": ["minecraft:squid"],
+        "random": 0.5,
+        "result": "deny"
+    },
+
+
+    
+    {
+        "mob": ["born_in_chaos_v1:corpse_fish", "born_in_chaos_v1:glutton_fish", "cataclysm:deepling", "cataclysm:deepling_angler", "cataclysm:deepling_brute", "cataclysm:lionfish", "minecraft:drowned"],
+        "mintime": 23000,
+        "maxtime": 23999,
+        "spawntype": "natural",
+        "result": "deny"
+    },
+    {
+        "mob": ["born_in_chaos_v1:corpse_fish", "born_in_chaos_v1:glutton_fish", "cataclysm:deepling", "cataclysm:deepling_angler", "cataclysm:deepling_brute", "cataclysm:lionfish", "minecraft:drowned"],
+        "mintime": 0,
+        "maxtime": 13000,
+        "spawntype": "natural",
+        "result": "deny"
+    },
+    {
+        "mob": ["cataclysm:deepling", "cataclysm:deepling_angler", "cataclysm:deepling_brute", "cataclysm:lionfish"],
+        "structure": "cataclysm:sunken_city",
+        "result": "allow"
+    },
+
+
+
+    {
+        "mob": "alexsmobs:enderiophage",
+        "dimension": "minecraft:the_end",
+        "biome": "minecraft:end_highlands",
+        "result": "allow"
+    },
+
+
+
+    {
+        "mob": ["minecraft:wither"],
+        "when": "finalize",
+        "result": "default",
+        "difficulty": "hard",
+        "healthmultiply": 1.2,
+        "damagemultiply": 2,
+        "speedmultiply": 2,
+        "armormultiply": 2
+    },
+    {
+        "mob": ["minecraft:wither"],
+        "when": "finalize",
+        "result": "default",
+        "difficulty": "normal",
+        "healthmultiply": 1.2,
+        "damagemultiply": 1.8,
+        "speedmultiply": 1.5,
+        "armormultiply": 1.5
+    },
+    {
+        "mob": ["witherstormmod:withered_symbiont"],
+        "when": "finalize",
+        "result": "default",
+        "difficulty": "hard",
+        "healthmultiply": 1.6,
+        "damagemultiply": 1.4,
+        "speedmultiply": 2,
+        "armormultiply": 2
+    },
+    {
+        "mob": ["witherstormmod:withered_symbiont"],
+        "when": "finalize",
+        "result": "default",
+        "difficulty": "normal",
+        "healthmultiply": 1.6,
+        "damagemultiply": 1.8,
+        "speedmultiply": 1.5,
+        "armormultiply": 1.5
+    },
+    {
+        "mob": ["witherstormmod:withered_symbiont"],
+        "when": "finalize",
+        "result": "default",
+        "difficulty": "easy",
+        "healthmultiply": 1.3,
+        "damagemultiply": 1.6,
+        "speedmultiply": 1.5,
+        "armormultiply": 1.5
+    }
+]

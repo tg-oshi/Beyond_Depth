@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "supplementaries:lumisene_fire_aspect",
+    "supplementaries:lumisene_flame",
+    "alexscaves_torpedoes:universal_magnetism",
+    "create_sa:gravity_gun",
+    "create_sa:above_the_clouds",
+    "create_sa:hellfire",
+    "create_sa:impact",
+    "alexsmobs:board_return"
+  ]
+}

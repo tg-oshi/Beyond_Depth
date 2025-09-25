@@ -1,0 +1,96 @@
+{
+  "values": [
+    {
+      "id": "minecraft:nautilus_shell",
+      "required": false
+    },
+    {
+      "id": "minecraft:sea_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:sea_pickle",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:bubble_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_coral_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_shard",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_crystals",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:acan_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:finger_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:star_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:moss_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:petal_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:rock_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:elkhorn_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:prism_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:table_coral_block",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:branch_coral_block",
+      "required": false
+    },
+    {
+      "id": "projectvibrantjourneys:seashells",
+      "required": false
+    },
+    {
+      "id": "ecologics:seashell",
+      "required": false
+    },
+    {
+      "id": "crittersandcompanions:sea_bunny_bucket",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "trials:breeze",
+      "required": false
+    },
+    {
+      "id": "trials:bogged",
+      "required": false
+    }
+  ]
+}

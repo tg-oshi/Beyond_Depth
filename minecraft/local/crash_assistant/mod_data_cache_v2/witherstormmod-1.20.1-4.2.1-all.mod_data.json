@@ -1,0 +1,1 @@
+{"jarName":"witherstormmod-1.20.1-4.2.1-all.jar","modId":"witherstormmod","version":"4.2.1","mixinConfigs":["witherstormmod.mixins.json"],"jarJarMods":[{"jarName":"crackerslib-forge-1.20.1-0.4.1.jar","modId":"crackerslib","version":"1.20.1-0.4.1","mixinConfigs":["crackerslib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

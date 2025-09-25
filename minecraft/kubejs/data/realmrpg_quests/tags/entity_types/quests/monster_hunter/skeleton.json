@@ -1,0 +1,44 @@
+{
+  "values": [
+    {
+      "id": "born_in_chaos_v1:baby_skeleton",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:baby_skeleton_minion",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:controlled_baby_skeleton",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:controlled_spiritual_assistant",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:decrepit_skeleton",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:siamese_skeletons",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:skeleton_demoman",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:skeleton_thrasher",
+      "required": false
+    },
+    {
+      "id": "minecraft:skeleton",
+      "required": false
+    },
+    {
+      "id": "majruszsdifficulty:tank",
+      "required": false
+    }
+  ]
+}

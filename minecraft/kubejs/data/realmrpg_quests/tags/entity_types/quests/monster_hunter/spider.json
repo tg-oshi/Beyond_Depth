@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "born_in_chaos_v1:baby_spider",
+      "required": false
+    },
+    {
+      "id": "born_in_chaos_v1:baby_spider_controlled",
+      "required": false
+    },
+    {
+      "id": "minecraft:spider",
+      "required": false
+    },
+    {
+      "id": "minecraft:cave_spider",
+      "required": false
+    }
+  ]
+}

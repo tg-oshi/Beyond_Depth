@@ -1,0 +1,4 @@
+MWName:mw$112923459:Map 1
+MWName:mw$default:Default
+caveModeType:1
+dimensionTypeId:undergarden:undergarden

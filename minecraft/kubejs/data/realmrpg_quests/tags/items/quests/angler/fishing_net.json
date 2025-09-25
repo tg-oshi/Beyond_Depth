@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:sugar_cane",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rope",
+      "required": false
+    },
+    {
+      "id": "supplementaries:rope",
+      "required": false
+    }
+  ]
+}

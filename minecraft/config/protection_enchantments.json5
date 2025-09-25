@@ -1,0 +1,57 @@
+{
+	"fireProtection": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": false,
+		"isTradeable": true,
+		"isGlow": false
+	},
+	"cactusProtection": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": false,
+		"isTradeable": true
+	},
+	"blastProtection": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": false,
+		"isTradeable": true
+	},
+	"voidProtection": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": false,
+		"isTradeable": true,
+		"isGlow": true,
+		"protectionHeight": "HEIGHT_WHERE_ENTITY_TAKES_DAMAGE",
+		"protectedHeight": 1
+	},
+	"expireProtection": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": false,
+		"isTradeable": true
+	},
+	"inventoryHolding": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": true,
+		"isTradeable": true,
+		"isVanishingCurseDisabled": true
+	},
+	"acidProtection": {
+		"enchantableItems": "ITEMS_AND_COMPATIBLE_BLOCKS",
+		"minimumCost": 30,
+		"rarity": "VERY_RARE",
+		"isTreasure": false,
+		"isTradeable": true,
+		"isGlow": false
+	}
+}

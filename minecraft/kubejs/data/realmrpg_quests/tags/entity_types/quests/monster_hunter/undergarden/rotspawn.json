@@ -1,0 +1,16 @@
+{
+  "values": [
+	{
+      "id": "undergarden:rotbeast",
+      "required": false
+    },
+    {
+      "id": "undergarden:rotling",
+      "required": false
+    },
+    {
+      "id": "undergarden:rotwalker",
+      "required": false
+    }
+  ]
+}

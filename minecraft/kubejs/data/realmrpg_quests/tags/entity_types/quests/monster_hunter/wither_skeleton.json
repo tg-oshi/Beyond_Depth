@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:wither_skeleton",
+      "required": false
+    },
+    {
+      "id": "bygonenether:corpor",
+      "required": false
+    },
+    {
+      "id": "bygonenether:wraither",
+      "required": false
+    }
+  ]
+}

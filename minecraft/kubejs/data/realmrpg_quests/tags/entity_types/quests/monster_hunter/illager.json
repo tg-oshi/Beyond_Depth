@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "biomemakeover:cowboy",
+      "required": false
+    },
+    {
+      "id": "biomemakeover:ghost",
+      "required": false
+    },
+    {
+      "id": "minecraft:pillager",
+      "required": false
+    },
+    {
+      "id": "minecraft:vindicator",
+      "required": false
+    },
+    {
+      "id": "minecraft:evoker",
+      "required": false
+    },
+    {
+      "id": "minecraft:illusioner",
+      "required": false
+    },
+    {
+      "id": "majruszsdifficulty:illusioner",
+      "required": false
+    }
+  ]
+}
